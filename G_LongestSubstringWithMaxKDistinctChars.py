@@ -12,4 +12,5 @@ def longest_substring_with_k_distinct(str1, k):
         max_length = max(max_length, window_end - window_start + 1)
     return max_length
 
+
 print(longest_substring_with_k_distinct('araaci', 2))
