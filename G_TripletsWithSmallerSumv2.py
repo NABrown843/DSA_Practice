@@ -15,3 +15,4 @@ def triplet_with_smaller_sum_v2(arr, target):
                 right -= 1
 
     return triplets
+    
